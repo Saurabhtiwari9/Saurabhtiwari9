@@ -3,7 +3,7 @@
 
 
 
-### ¡Saludos! I am Anshika 👋.
+### ¡Saludos! I am Saurabh 👋.
 
 
 ![MasterHead](https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg)   
@@ -11,19 +11,19 @@
 
 <h3 align="center">A passionate Student & Contributor from India....</h3>
 
-- 🔭 I’m currently working on a Ai_Ml Projects.
-- 🌱 I’m currently learning Microsoft azure and Deep Learning.
+- 🔭 I’m currently working on Web development Mini Project.
+- 🌱 I’m currently learning Cloud Computing and Java.
 - 👯 I’m looking to collaborate on github, leetcode and codechef.
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
-- 😄 Pronouns: She/her
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: नमस्कार करके जाना 🙏
 - <p align="right">
-<img src = "https://github-readme-stats.vercel.app/api?username=Anshika91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src = "https://github-readme-stats.vercel.app/api?username=Tripathiji27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
 <p align="left">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshika Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Anshika91&theme=black-ice&stroke=060A0CD0"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji27&theme=black-ice&stroke=060A0CD0">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saurabh Tripathi's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji27&theme=black-ice&stroke=060A0CD0"/>
     </a>
 </p>
 
