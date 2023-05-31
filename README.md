@@ -22,7 +22,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Tripathiji27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </p>
 <p align="left">
-   <a href="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji&theme=black-ice&stroke=060A0CD0">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji27&theme=black-ice&stroke=060A0CD0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saurabh Tiwari's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji27&theme=black-ice&stroke=060A0CD0"/>
     </a>
 </p>
