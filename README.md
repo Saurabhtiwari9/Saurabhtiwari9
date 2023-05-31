@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Cloud Computing and Java.
 - 👯 I’m looking to collaborate on github, leetcode and codechef.
 - 💬 Ask me about tech related stuff.
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/anshika-mishra-54621a20b
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/saurabh-tiwari-0a7414279/
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: नमस्कार करके जाना 🙏
 - <p align="right">
