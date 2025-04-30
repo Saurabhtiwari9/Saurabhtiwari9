@@ -13,13 +13,7 @@
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/saurabh-tiwari-0a7414279/
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: नमस्कार करके जाना 🙏
-<p align="left">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji27&theme=black-ice&stroke=060A0CD0">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saurabh Tiwari's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Tripathiji27&theme=black-ice&stroke=060A0CD0"/>
-    </a>
-</p>
 
-<h2>My Work😁</h2>
 <h1 align="center">
 <img src="https://im5.ezgif.com/tmp/ezgif-5-dfbf0ee8d9.gif">
 </h1>
